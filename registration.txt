@@ -1,3 +1,2 @@
 registratioon
-Fixed a bug
 Added new feature
