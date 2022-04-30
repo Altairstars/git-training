@@ -2,3 +2,5 @@ file1
 append
 sky
 ocean
+water
+dirt
